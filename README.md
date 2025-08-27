@@ -79,3 +79,8 @@ Software Engineer @ Clari | Java Backend Developer & Automation Framework Specia
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="IntelliJ IDEA" width="40" height="40"/> 
 </p>
+
+<!--updated_at-->
+Last updated: _initializing…_
+<!--/updated_at-->
+
