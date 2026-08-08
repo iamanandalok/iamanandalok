@@ -3,9 +3,14 @@
 Senior Java Backend Engineer · Spring Boot · Kafka · Distributed Systems
 </h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamanandalok&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanandalok&layout=compact&hide_border=true" height="150" />
+</p>
+
+- 🧪 **Latest:** [webhook-relay](https://github.com/iamanandalok/webhook-relay) — event-driven webhook ingestion service built around a transactional outbox, an idempotent Kafka consumer, and a dead-letter topic with a documented retry policy. Verified with Testcontainers against real Postgres and Kafka.
 - 🔭 Currently a **Software Engineer at Clari**, building backend microservices and enterprise data integrations
 - 💡 7+ years designing and running **Java / Spring Boot** systems: REST APIs, event-driven architecture, Kafka, distributed microservices
-- 🧪 Latest project: **[webhook-relay](https://github.com/iamanandalok/webhook-relay)** — an event-driven webhook ingestion service built around a transactional outbox, an idempotent Kafka consumer, and a dead-letter topic with a documented retry policy. Verified with Testcontainers against real Postgres and Kafka.
 - 🌍 Based in Bengaluru, open to relocating to the EU — EU Blue Card eligible
 - 📫 **iamanandalok@gmail.com** · [LinkedIn](https://linkedin.com/in/anand-alok-dev)
 
@@ -13,138 +18,43 @@ Senior Java Backend Engineer · Spring Boot · Kafka · Distributed Systems
 
 <h3 align="left">🧰 Toolbox</h3>
 
-### 🚀 Languages & Backend
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br/>
-    <sub>Java</sub>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/>
-    <sub>Spring Boot</sub>
-  </a>
-</p>
+**Backend**
 
-### 📨 Messaging & Data
-<p align="left">
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/><br/>
-    <sub>Kafka</sub>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/><br/>
-    <sub>RabbitMQ</sub>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>
-    <sub>PostgreSQL</sub>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
-    <sub>MySQL</sub>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>
-    <sub>MongoDB</sub>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/><br/>
-    <sub>Redis</sub>
-  </a>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### ⚙️ Cloud & DevOps
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/>
-    <sub>Docker</sub>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/><br/>
-    <sub>Kubernetes</sub>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/><br/>
-    <sub>AWS</sub>
-  </a>
-  <a href="https://gradle.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40"/><br/>
-    <sub>Gradle</sub>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://unpkg.com/simple-icons@latest/icons/githubactions.svg" width="40" height="40"/><br/>
-    <sub>GitHub Actions</sub>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/><br/>
-    <sub>Jenkins</sub>
-  </a>
-</p>
+**Messaging & Data**
 
-### 🧪 Testing & Quality
-<p align="left">
-  <a href="https://junit.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40" height="40"/><br/>
-    <sub>JUnit</sub>
-  </a>
-  <a href="https://site.mockito.org/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="40" height="40"/><br/>
-    <sub>Mockito</sub>
-  </a>
-  <a href="https://testcontainers.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/13393021?s=200&v=4" width="40" height="40"/><br/>
-    <sub>Testcontainers</sub>
-  </a>
-  <a href="https://www.jacoco.org/" target="_blank">
-    <img src="https://img.shields.io/badge/JaCoCo-Coverage-informational?style=flat" width="100" height="20"/><br/>
-    <sub>JaCoCo</sub>
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-    <img src="https://unpkg.com/simple-icons@latest/icons/sonarqube.svg" width="40" height="40"/><br/>
-    <sub>SonarQube</sub>
-  </a>
-</p>
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 📊 Observability
-<p align="left">
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/><br/>
-    <sub>Grafana</sub>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" height="40"/><br/>
-    <sub>Splunk</sub>
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Datadog-Monitoring-informational?style=flat" width="110" height="20"/><br/>
-    <sub>Datadog</sub>
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-Metrics-informational?style=flat" width="115" height="20"/><br/>
-    <sub>Prometheus</sub>
-  </a>
-</p>
+**Cloud & DevOps**
 
-### 🔧 Other Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>
-    <sub>Git</sub>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40"/><br/>
-    <sub>Jira</sub>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br/>
-    <sub>Postman</sub>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/><br/>
-    <sub>IntelliJ IDEA</sub>
-  </a>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+**Testing & Quality**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C25E?style=flat-square)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-1D63ED?style=flat-square)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-Coverage-informational?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+**Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 <!--updated_at-->
 📅 Updated: 2026-08-08 06:29:31 IST
