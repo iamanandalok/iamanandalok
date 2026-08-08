@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anand Alok</h1>
 <h3 align="center">
-Senior Java Backend Engineer · Spring Boot · Kafka · Distributed Systems
+Senior Java Backend Engineer · Distributed Systems · APIs · Cloud
 </h3>
 
-- 🧪 **Latest:** [webhook-relay](https://github.com/iamanandalok/webhook-relay) — event-driven webhook ingestion service built around a transactional outbox, an idempotent Kafka consumer, and a dead-letter topic with a documented retry policy. Verified with Testcontainers against real Postgres and Kafka.
+- 💡 7+ years designing, building, and operating backend systems end to end — REST APIs and event-driven services alike, relational and NoSQL data stores, cloud-native deployment. Spring Boot and Java are the core; I adapt to whatever stack a team already runs rather than needing one specific technology to be productive.
 - 🔭 Currently a **Software Engineer at Clari**, building backend microservices and enterprise data integrations
-- 💡 7+ years designing and running **Java / Spring Boot** systems: REST APIs, event-driven architecture, Kafka, distributed microservices
-- 🌍 Based in Bengaluru, open to relocating to the EU — EU Blue Card eligible
+- 🧪 **Latest:** [webhook-relay](https://github.com/iamanandalok/webhook-relay) — reliable, event-driven data delivery under real-world failure conditions: a transactional outbox for exactly-once persistence, an idempotent consumer, and a dead-letter policy for permanent failures. Verified with Testcontainers against real Postgres and Kafka.
+- 🌍 Based in Bengaluru, India
 - 📫 **iamanandalok@gmail.com** · [LinkedIn](https://linkedin.com/in/anand-alok-dev)
 
 ---
