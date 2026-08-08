@@ -3,11 +3,6 @@
 Senior Java Backend Engineer · Spring Boot · Kafka · Distributed Systems
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamanandalok&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanandalok&layout=compact&hide_border=true" height="150" />
-</p>
-
 - 🧪 **Latest:** [webhook-relay](https://github.com/iamanandalok/webhook-relay) — event-driven webhook ingestion service built around a transactional outbox, an idempotent Kafka consumer, and a dead-letter topic with a documented retry policy. Verified with Testcontainers against real Postgres and Kafka.
 - 🔭 Currently a **Software Engineer at Clari**, building backend microservices and enterprise data integrations
 - 💡 7+ years designing and running **Java / Spring Boot** systems: REST APIs, event-driven architecture, Kafka, distributed microservices
