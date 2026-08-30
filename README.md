@@ -52,5 +52,5 @@ Senior Java Backend Engineer · Distributed Systems · APIs · Cloud
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 <!--updated_at-->
-📅 Updated: 2026-08-29 10:26:18 IST
+📅 Updated: 2026-08-30 08:12:43 IST
 <!--/updated_at-->
